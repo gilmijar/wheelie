@@ -1,0 +1,252 @@
+[{"purchase_year":2022,"make":"Alfa Romeo","model":"Giulia","price":210000}
+,{"purchase_year":2022,"make":"Alfa Romeo","model":"Stelvio","price":240000}
+,{"purchase_year":2022,"make":"Alfa Romeo","model":"Tonale","price":165000}
+,{"purchase_year":2022,"make":"Audi","model":"A3","price":178874}
+,{"purchase_year":2022,"make":"Audi","model":"Q5","price":167348}
+,{"purchase_year":2022,"make":"Audi","model":"e-tron","price":391587}
+,{"purchase_year":2022,"make":"BMW","model":"3 Series","price":240813}
+,{"purchase_year":2022,"make":"BMW","model":"X5","price":114019}
+,{"purchase_year":2022,"make":"BMW","model":"i4","price":159489}
+,{"purchase_year":2022,"make":"Chevrolet","model":"Equinox","price":228276}
+,{"purchase_year":2022,"make":"Chevrolet","model":"Spark","price":186251}
+,{"purchase_year":2022,"make":"Chevrolet","model":"Tahoe","price":395216}
+,{"purchase_year":2022,"make":"FIAT","model":"500","price":174835}
+,{"purchase_year":2022,"make":"FIAT","model":"Panda","price":241074}
+,{"purchase_year":2022,"make":"FIAT","model":"Tipo","price":235172}
+,{"purchase_year":2022,"make":"Ford","model":"Focus","price":342278}
+,{"purchase_year":2022,"make":"Ford","model":"Kuga","price":236185}
+,{"purchase_year":2022,"make":"Ford","model":"Mustang","price":307886}
+,{"purchase_year":2022,"make":"Honda","model":"CR-V","price":303633}
+,{"purchase_year":2022,"make":"Honda","model":"Civic","price":318519}
+,{"purchase_year":2022,"make":"Honda","model":"HR-V","price":194791}
+,{"purchase_year":2022,"make":"Hyundai","model":"Santa Fe","price":271914}
+,{"purchase_year":2022,"make":"Hyundai","model":"Tucson","price":164107}
+,{"purchase_year":2022,"make":"Hyundai","model":"i30","price":352327}
+,{"purchase_year":2022,"make":"Jeep","model":"Compass","price":377856}
+,{"purchase_year":2022,"make":"Jeep","model":"Renegade","price":117490}
+,{"purchase_year":2022,"make":"Jeep","model":"Wrangler","price":159055}
+,{"purchase_year":2022,"make":"Kia","model":"Ceed","price":213465}
+,{"purchase_year":2022,"make":"Kia","model":"EV6","price":228764}
+,{"purchase_year":2022,"make":"Kia","model":"Sportage","price":220485}
+,{"purchase_year":2022,"make":"Lexus","model":"IS","price":363742}
+,{"purchase_year":2022,"make":"Lexus","model":"NX","price":195786}
+,{"purchase_year":2022,"make":"Lexus","model":"RX","price":335469}
+,{"purchase_year":2022,"make":"Lotus","model":"Elise","price":261525}
+,{"purchase_year":2022,"make":"Lotus","model":"Emira","price":209220}
+,{"purchase_year":2022,"make":"Lotus","model":"Evora","price":168011}
+,{"purchase_year":2022,"make":"MINI","model":"Clubman","price":351371}
+,{"purchase_year":2022,"make":"MINI","model":"Cooper","price":144708}
+,{"purchase_year":2022,"make":"MINI","model":"Countryman","price":397193}
+,{"purchase_year":2022,"make":"Mazda","model":"CX-5","price":210305}
+,{"purchase_year":2022,"make":"Mazda","model":"MX-30","price":265469}
+,{"purchase_year":2022,"make":"Mazda","model":"Mazda3","price":121304}
+,{"purchase_year":2022,"make":"Mercedes-Benz","model":"A-Class","price":145000}
+,{"purchase_year":2022,"make":"Mercedes-Benz","model":"C-Class","price":205000}
+,{"purchase_year":2022,"make":"Mercedes-Benz","model":"GLE","price":360000}
+,{"purchase_year":2022,"make":"Mitsubishi","model":"Eclipse Cross","price":299285}
+,{"purchase_year":2022,"make":"Mitsubishi","model":"Outlander","price":122702}
+,{"purchase_year":2022,"make":"Mitsubishi","model":"Space Star","price":111020}
+,{"purchase_year":2022,"make":"Nissan","model":"Micra","price":142923}
+,{"purchase_year":2022,"make":"Nissan","model":"Qashqai","price":305941}
+,{"purchase_year":2022,"make":"Nissan","model":"X-Trail","price":193161}
+,{"purchase_year":2022,"make":"Smart","model":"EQ","price":298860}
+,{"purchase_year":2022,"make":"Smart","model":"Forfour","price":265990}
+,{"purchase_year":2022,"make":"Smart","model":"Fortwo","price":369557}
+,{"purchase_year":2022,"make":"Toyota","model":"Corolla","price":135762}
+,{"purchase_year":2022,"make":"Toyota","model":"RAV4","price":244958}
+,{"purchase_year":2022,"make":"Toyota","model":"Yaris","price":282308}
+,{"purchase_year":2022,"make":"Volkswagen","model":"Golf","price":167666}
+,{"purchase_year":2022,"make":"Volkswagen","model":"ID.4","price":160506}
+,{"purchase_year":2022,"make":"Volkswagen","model":"Tiguan","price":193541}
+,{"purchase_year":2022,"make":"Volvo","model":"S60","price":398309}
+,{"purchase_year":2022,"make":"Volvo","model":"XC40","price":182192}
+,{"purchase_year":2022,"make":"Volvo","model":"XC90","price":381415}
+,{"purchase_year":2023,"make":"Alfa Romeo","model":"Giulia","price":218000}
+,{"purchase_year":2023,"make":"Alfa Romeo","model":"Stelvio","price":249000}
+,{"purchase_year":2023,"make":"Alfa Romeo","model":"Tonale","price":171000}
+,{"purchase_year":2023,"make":"Audi","model":"A3","price":183545}
+,{"purchase_year":2023,"make":"Audi","model":"Q5","price":173480}
+,{"purchase_year":2023,"make":"Audi","model":"e-tron","price":403766}
+,{"purchase_year":2023,"make":"BMW","model":"3 Series","price":246765}
+,{"purchase_year":2023,"make":"BMW","model":"X5","price":117433}
+,{"purchase_year":2023,"make":"BMW","model":"i4","price":164066}
+,{"purchase_year":2023,"make":"Chevrolet","model":"Equinox","price":236454}
+,{"purchase_year":2023,"make":"Chevrolet","model":"Spark","price":192183}
+,{"purchase_year":2023,"make":"Chevrolet","model":"Tahoe","price":405416}
+,{"purchase_year":2023,"make":"FIAT","model":"500","price":178561}
+,{"purchase_year":2023,"make":"FIAT","model":"Panda","price":246725}
+,{"purchase_year":2023,"make":"FIAT","model":"Tipo","price":242917}
+,{"purchase_year":2023,"make":"Ford","model":"Focus","price":353877}
+,{"purchase_year":2023,"make":"Ford","model":"Kuga","price":244189}
+,{"purchase_year":2023,"make":"Ford","model":"Mustang","price":315379}
+,{"purchase_year":2023,"make":"Honda","model":"CR-V","price":315007}
+,{"purchase_year":2023,"make":"Honda","model":"Civic","price":326975}
+,{"purchase_year":2023,"make":"Honda","model":"HR-V","price":199599}
+,{"purchase_year":2023,"make":"Hyundai","model":"Santa Fe","price":277483}
+,{"purchase_year":2023,"make":"Hyundai","model":"Tucson","price":167914}
+,{"purchase_year":2023,"make":"Hyundai","model":"i30","price":361343}
+,{"purchase_year":2023,"make":"Jeep","model":"Compass","price":390137}
+,{"purchase_year":2023,"make":"Jeep","model":"Renegade","price":121749}
+,{"purchase_year":2023,"make":"Jeep","model":"Wrangler","price":164853}
+,{"purchase_year":2023,"make":"Kia","model":"Ceed","price":219421}
+,{"purchase_year":2023,"make":"Kia","model":"EV6","price":235433}
+,{"purchase_year":2023,"make":"Kia","model":"Sportage","price":229054}
+,{"purchase_year":2023,"make":"Lexus","model":"IS","price":374427}
+,{"purchase_year":2023,"make":"Lexus","model":"NX","price":203053}
+,{"purchase_year":2023,"make":"Lexus","model":"RX","price":343191}
+,{"purchase_year":2023,"make":"Lotus","model":"Elise","price":271720}
+,{"purchase_year":2023,"make":"Lotus","model":"Emira","price":214447}
+,{"purchase_year":2023,"make":"Lotus","model":"Evora","price":174476}
+,{"purchase_year":2023,"make":"MINI","model":"Clubman","price":358467}
+,{"purchase_year":2023,"make":"MINI","model":"Cooper","price":149263}
+,{"purchase_year":2023,"make":"MINI","model":"Countryman","price":411160}
+,{"purchase_year":2023,"make":"Mazda","model":"CX-5","price":216136}
+,{"purchase_year":2023,"make":"Mazda","model":"MX-30","price":272988}
+,{"purchase_year":2023,"make":"Mazda","model":"Mazda3","price":125480}
+,{"purchase_year":2023,"make":"Mercedes-Benz","model":"A-Class","price":149000}
+,{"purchase_year":2023,"make":"Mercedes-Benz","model":"C-Class","price":212000}
+,{"purchase_year":2023,"make":"Mercedes-Benz","model":"GLE","price":370000}
+,{"purchase_year":2023,"make":"Mitsubishi","model":"Eclipse Cross","price":307789}
+,{"purchase_year":2023,"make":"Mitsubishi","model":"Outlander","price":125960}
+,{"purchase_year":2023,"make":"Mitsubishi","model":"Space Star","price":113433}
+,{"purchase_year":2023,"make":"Nissan","model":"Micra","price":148033}
+,{"purchase_year":2023,"make":"Nissan","model":"Qashqai","price":315590}
+,{"purchase_year":2023,"make":"Nissan","model":"X-Trail","price":198483}
+,{"purchase_year":2023,"make":"Smart","model":"EQ","price":310791}
+,{"purchase_year":2023,"make":"Smart","model":"Forfour","price":276182}
+,{"purchase_year":2023,"make":"Smart","model":"Fortwo","price":381310}
+,{"purchase_year":2023,"make":"Toyota","model":"Corolla","price":140833}
+,{"purchase_year":2023,"make":"Toyota","model":"RAV4","price":252615}
+,{"purchase_year":2023,"make":"Toyota","model":"Yaris","price":291122}
+,{"purchase_year":2023,"make":"Volkswagen","model":"Golf","price":173484}
+,{"purchase_year":2023,"make":"Volkswagen","model":"ID.4","price":165195}
+,{"purchase_year":2023,"make":"Volkswagen","model":"Tiguan","price":198047}
+,{"purchase_year":2023,"make":"Volvo","model":"S60","price":410186}
+,{"purchase_year":2023,"make":"Volvo","model":"XC40","price":187641}
+,{"purchase_year":2023,"make":"Volvo","model":"XC90","price":391055}
+,{"purchase_year":2024,"make":"Alfa Romeo","model":"Giulia","price":225000}
+,{"purchase_year":2024,"make":"Alfa Romeo","model":"Stelvio","price":258000}
+,{"purchase_year":2024,"make":"Alfa Romeo","model":"Tonale","price":177000}
+,{"purchase_year":2024,"make":"Audi","model":"A3","price":189915}
+,{"purchase_year":2024,"make":"Audi","model":"Q5","price":177403}
+,{"purchase_year":2024,"make":"Audi","model":"e-tron","price":415561}
+,{"purchase_year":2024,"make":"BMW","model":"3 Series","price":255752}
+,{"purchase_year":2024,"make":"BMW","model":"X5","price":121594}
+,{"purchase_year":2024,"make":"BMW","model":"i4","price":170004}
+,{"purchase_year":2024,"make":"Chevrolet","model":"Equinox","price":241879}
+,{"purchase_year":2024,"make":"Chevrolet","model":"Spark","price":197045}
+,{"purchase_year":2024,"make":"Chevrolet","model":"Tahoe","price":415609}
+,{"purchase_year":2024,"make":"FIAT","model":"500","price":185104}
+,{"purchase_year":2024,"make":"FIAT","model":"Panda","price":252244}
+,{"purchase_year":2024,"make":"FIAT","model":"Tipo","price":247926}
+,{"purchase_year":2024,"make":"Ford","model":"Focus","price":365406}
+,{"purchase_year":2024,"make":"Ford","model":"Kuga","price":250955}
+,{"purchase_year":2024,"make":"Ford","model":"Mustang","price":323672}
+,{"purchase_year":2024,"make":"Honda","model":"CR-V","price":322912}
+,{"purchase_year":2024,"make":"Honda","model":"Civic","price":334060}
+,{"purchase_year":2024,"make":"Honda","model":"HR-V","price":205265}
+,{"purchase_year":2024,"make":"Hyundai","model":"Santa Fe","price":284675}
+,{"purchase_year":2024,"make":"Hyundai","model":"Tucson","price":171630}
+,{"purchase_year":2024,"make":"Hyundai","model":"i30","price":369793}
+,{"purchase_year":2024,"make":"Jeep","model":"Compass","price":400402}
+,{"purchase_year":2024,"make":"Jeep","model":"Renegade","price":124294}
+,{"purchase_year":2024,"make":"Jeep","model":"Wrangler","price":170066}
+,{"purchase_year":2024,"make":"Kia","model":"Ceed","price":227612}
+,{"purchase_year":2024,"make":"Kia","model":"EV6","price":242080}
+,{"purchase_year":2024,"make":"Kia","model":"Sportage","price":237039}
+,{"purchase_year":2024,"make":"Lexus","model":"IS","price":383680}
+,{"purchase_year":2024,"make":"Lexus","model":"NX","price":208677}
+,{"purchase_year":2024,"make":"Lexus","model":"RX","price":354974}
+,{"purchase_year":2024,"make":"Lotus","model":"Elise","price":277540}
+,{"purchase_year":2024,"make":"Lotus","model":"Emira","price":220190}
+,{"purchase_year":2024,"make":"Lotus","model":"Evora","price":180971}
+,{"purchase_year":2024,"make":"MINI","model":"Clubman","price":366630}
+,{"purchase_year":2024,"make":"MINI","model":"Cooper","price":152752}
+,{"purchase_year":2024,"make":"MINI","model":"Countryman","price":420714}
+,{"purchase_year":2024,"make":"Mazda","model":"CX-5","price":224504}
+,{"purchase_year":2024,"make":"Mazda","model":"MX-30","price":283230}
+,{"purchase_year":2024,"make":"Mazda","model":"Mazda3","price":130477}
+,{"purchase_year":2024,"make":"Mercedes-Benz","model":"A-Class","price":153000}
+,{"purchase_year":2024,"make":"Mercedes-Benz","model":"C-Class","price":218000}
+,{"purchase_year":2024,"make":"Mercedes-Benz","model":"GLE","price":385000}
+,{"purchase_year":2024,"make":"Mitsubishi","model":"Eclipse Cross","price":319140}
+,{"purchase_year":2024,"make":"Mitsubishi","model":"Outlander","price":128707}
+,{"purchase_year":2024,"make":"Mitsubishi","model":"Space Star","price":116984}
+,{"purchase_year":2024,"make":"Nissan","model":"Micra","price":152251}
+,{"purchase_year":2024,"make":"Nissan","model":"Qashqai","price":323486}
+,{"purchase_year":2024,"make":"Nissan","model":"X-Trail","price":204221}
+,{"purchase_year":2024,"make":"Smart","model":"EQ","price":322998}
+,{"purchase_year":2024,"make":"Smart","model":"Forfour","price":283081}
+,{"purchase_year":2024,"make":"Smart","model":"Fortwo","price":392282}
+,{"purchase_year":2024,"make":"Toyota","model":"Corolla","price":146307}
+,{"purchase_year":2024,"make":"Toyota","model":"RAV4","price":259687}
+,{"purchase_year":2024,"make":"Toyota","model":"Yaris","price":302193}
+,{"purchase_year":2024,"make":"Volkswagen","model":"Golf","price":178989}
+,{"purchase_year":2024,"make":"Volkswagen","model":"ID.4","price":169384}
+,{"purchase_year":2024,"make":"Volkswagen","model":"Tiguan","price":202081}
+,{"purchase_year":2024,"make":"Volvo","model":"S60","price":423905}
+,{"purchase_year":2024,"make":"Volvo","model":"XC40","price":192769}
+,{"purchase_year":2024,"make":"Volvo","model":"XC90","price":405697}
+,{"purchase_year":2025,"make":"Alfa Romeo","model":"Giulia","price":233000}
+,{"purchase_year":2025,"make":"Alfa Romeo","model":"Stelvio","price":268000}
+,{"purchase_year":2025,"make":"Alfa Romeo","model":"Tonale","price":184000}
+,{"purchase_year":2025,"make":"Audi","model":"A3","price":194617}
+,{"purchase_year":2025,"make":"Audi","model":"Q5","price":184273}
+,{"purchase_year":2025,"make":"Audi","model":"e-tron","price":430743}
+,{"purchase_year":2025,"make":"BMW","model":"3 Series","price":263692}
+,{"purchase_year":2025,"make":"BMW","model":"X5","price":125790}
+,{"purchase_year":2025,"make":"BMW","model":"i4","price":173685}
+,{"purchase_year":2025,"make":"Chevrolet","model":"Equinox","price":247642}
+,{"purchase_year":2025,"make":"Chevrolet","model":"Spark","price":204122}
+,{"purchase_year":2025,"make":"Chevrolet","model":"Tahoe","price":428296}
+,{"purchase_year":2025,"make":"FIAT","model":"500","price":191883}
+,{"purchase_year":2025,"make":"FIAT","model":"Panda","price":261580}
+,{"purchase_year":2025,"make":"FIAT","model":"Tipo","price":256288}
+,{"purchase_year":2025,"make":"Ford","model":"Focus","price":375997}
+,{"purchase_year":2025,"make":"Ford","model":"Kuga","price":256399}
+,{"purchase_year":2025,"make":"Ford","model":"Mustang","price":335529}
+,{"purchase_year":2025,"make":"Honda","model":"CR-V","price":335814}
+,{"purchase_year":2025,"make":"Honda","model":"Civic","price":344894}
+,{"purchase_year":2025,"make":"Honda","model":"HR-V","price":210064}
+,{"purchase_year":2025,"make":"Hyundai","model":"Santa Fe","price":292853}
+,{"purchase_year":2025,"make":"Hyundai","model":"Tucson","price":176273}
+,{"purchase_year":2025,"make":"Hyundai","model":"i30","price":377735}
+,{"purchase_year":2025,"make":"Jeep","model":"Compass","price":413468}
+,{"purchase_year":2025,"make":"Jeep","model":"Renegade","price":129062}
+,{"purchase_year":2025,"make":"Jeep","model":"Wrangler","price":174792}
+,{"purchase_year":2025,"make":"Kia","model":"Ceed","price":232445}
+,{"purchase_year":2025,"make":"Kia","model":"EV6","price":248983}
+,{"purchase_year":2025,"make":"Kia","model":"Sportage","price":245321}
+,{"purchase_year":2025,"make":"Lexus","model":"IS","price":398562}
+,{"purchase_year":2025,"make":"Lexus","model":"NX","price":214743}
+,{"purchase_year":2025,"make":"Lexus","model":"RX","price":365541}
+,{"purchase_year":2025,"make":"Lotus","model":"Elise","price":284609}
+,{"purchase_year":2025,"make":"Lotus","model":"Emira","price":225779}
+,{"purchase_year":2025,"make":"Lotus","model":"Evora","price":185489}
+,{"purchase_year":2025,"make":"MINI","model":"Clubman","price":377762}
+,{"purchase_year":2025,"make":"MINI","model":"Cooper","price":156162}
+,{"purchase_year":2025,"make":"MINI","model":"Countryman","price":436488}
+,{"purchase_year":2025,"make":"Mazda","model":"CX-5","price":232041}
+,{"purchase_year":2025,"make":"Mazda","model":"MX-30","price":288990}
+,{"purchase_year":2025,"make":"Mazda","model":"Mazda3","price":133892}
+,{"purchase_year":2025,"make":"Mercedes-Benz","model":"A-Class","price":158000}
+,{"purchase_year":2025,"make":"Mercedes-Benz","model":"C-Class","price":225000}
+,{"purchase_year":2025,"make":"Mercedes-Benz","model":"GLE","price":399000}
+,{"purchase_year":2025,"make":"Mitsubishi","model":"Eclipse Cross","price":328208}
+,{"purchase_year":2025,"make":"Mitsubishi","model":"Outlander","price":133393}
+,{"purchase_year":2025,"make":"Mitsubishi","model":"Space Star","price":120754}
+,{"purchase_year":2025,"make":"Nissan","model":"Micra","price":158023}
+,{"purchase_year":2025,"make":"Nissan","model":"Qashqai","price":331705}
+,{"purchase_year":2025,"make":"Nissan","model":"X-Trail","price":209756}
+,{"purchase_year":2025,"make":"Smart","model":"EQ","price":332325}
+,{"purchase_year":2025,"make":"Smart","model":"Forfour","price":288783}
+,{"purchase_year":2025,"make":"Smart","model":"Fortwo","price":401388}
+,{"purchase_year":2025,"make":"Toyota","model":"Corolla","price":150999}
+,{"purchase_year":2025,"make":"Toyota","model":"RAV4","price":266030}
+,{"purchase_year":2025,"make":"Toyota","model":"Yaris","price":313471}
+,{"purchase_year":2025,"make":"Volkswagen","model":"Golf","price":185039}
+,{"purchase_year":2025,"make":"Volkswagen","model":"ID.4","price":173345}
+,{"purchase_year":2025,"make":"Volkswagen","model":"Tiguan","price":207078}
+,{"purchase_year":2025,"make":"Volvo","model":"S60","price":439895}
+,{"purchase_year":2025,"make":"Volvo","model":"XC40","price":197622}
+,{"purchase_year":2025,"make":"Volvo","model":"XC90","price":420284}]

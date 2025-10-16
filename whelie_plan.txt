@@ -1,0 +1,20 @@
+* generate demand
+	base demand: proportional to existing users
+	spot demand: new customers coming
+	
+* check available cars
+	if we can't satisfy demand - rent proportionally to existing and new clients
+	calculate rentals based on satisfiable demand
+	
+* create new customers - as many as stems from proportional demand
+	create addresses, cities and countries.
+		in config - we specify how many clients come from PL vs abroad
+	customer age should follow gaussian dist. with cutoff at 18 and 70
+	
+* generate rentals
+	* durations should be 2-10 days, rentals on weekends should mostly end on Sunday (make this configurable)
+	* configurable periodicity (one or more configurations - additive)
+		* amplitude in %
+		* period in days
+	* required start date for periodicity calculation (so it's not hidden in the code)
+	

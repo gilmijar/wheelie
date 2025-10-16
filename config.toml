@@ -1,0 +1,30 @@
+[general]
+seed = 42
+log_level = "info"
+
+# Periodicity is a result of adding cosine functions together for each component (discretized to days)
+# For ease of calculation we define a fixed start date for the periodicity so that we can calculate the value at any date
+[periodicity]
+    start_date = "2023-01-01"
+
+    [[components]]
+        amplitude = 0.02
+        period = 7
+
+    [[components]]
+        amplitude = 0.05
+        period = 14
+
+    [[components]]
+        amplitude = 1.0
+        period = 90
+
+    [[components]]
+        amplitude = 5.0
+        period = 3650  # 10 years
+
+[demand]
+    # Portion of demand that is new (not returning customers) percentage expressed as a decimal
+    new_portion = 0.2
+    # Standard deviation of noise to add to demand each day
+    noise_stddev = 0.5
