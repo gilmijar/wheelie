@@ -1,6 +1,8 @@
 from unittest import TestCase
 import cars
 
+cars.SEED = "AnotherTrulyRandomSeed"
+
 class TestCarsModule(TestCase):
     def test_make_cars_produces_expected_items(self):
         new_cars = cars.make_cars(5, 2023)
