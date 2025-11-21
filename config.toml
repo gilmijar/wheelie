@@ -2,6 +2,13 @@
 seed = 42
 log_level = "info"
 
+[database]
+    host = "localhost"
+    port = 3306
+    user = "wheelie"
+    db_name = "wheelie"
+    password_env_var = "WHEELIE_DB_PASSWORD" # Name of the environment variable that contains the database password
+
 # Periodicity is a result of adding cosine functions together for each component (discretized to days)
 # For ease of calculation we define a fixed start date for the periodicity so that we can calculate the value at any date
 [periodicity]
